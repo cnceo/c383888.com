@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd47d506-7d67-4781-967f-92f3040634e8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1150159213">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="php" value="6" />
+          <entry key="php2" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+          <entry key="PHP" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="2" />
+          <entry key="php" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wap" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zst/zst.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6370">
+              <caret line="455" column="33" selection-start-line="455" selection-start-column="33" selection-end-line="455" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xingcai_back/Game.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="235" selection-start-line="235" selection-end-line="235" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1498">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xingcai_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skin/js/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1022">
+              <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skin/js/function.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17948">
+              <caret line="1282" column="44" selection-start-line="1282" selection-start-column="36" selection-end-line="1282" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skin/main/function.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14546">
+              <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Personal</find>
+      <find>waid71fa0d88-5390-4b5b-a2f4-e45fa93d85e2</find>
+      <find>help</find>
+      <find>index_youhui.png</find>
+      <find>fff</find>
+      <find>getList</find>
+      <find>wjStrFilter</find>
+      <find>getLHCRte</find>
+      <find>lhc</find>
+      <find>num</find>
+      <find>$tpl</find>
+      <find>post</find>
+      <find>dwd11x50</find>
+      <find>dwd11x5</find>
+      <find>ui-dialog-buttonset</find>
+      <find>你可用</find>
+      <find>你</find>
+      <find>k3hz</find>
+      <find>layer.open</find>
+      <find>chartsDiv</find>
+      <find>btnPostBet</find>
+      <find>postco</find>
+      <find>86</find>
+      <find>确定购买</find>
+      <find>game/postCode</find>
+      <find>actionName</find>
+      <find>action</find>
+      <find>postCode</find>
+      <find>actionNum</find>
+      <find>wap.c3811.com</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>彩票38</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xingcai_Front/report/coin.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/safe/info.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/safe/loginpasswd.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/safe/more.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/safe/question.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/safe/us.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/user/law.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/user/register.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/safe/Personal.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/activity_info1.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/activity_info2.php" />
+        <option value="$PROJECT_DIR$/xingcai_back/Index.class.php" />
+        <option value="$PROJECT_DIR$/assets/js/application/index.js" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/activity.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/activity_info.php" />
+        <option value="$PROJECT_DIR$/zst/kl8.php" />
+        <option value="$PROJECT_DIR$/zst/pk10.php" />
+        <option value="$PROJECT_DIR$/zst/k3.php" />
+        <option value="$PROJECT_DIR$/zst/index.php" />
+        <option value="$PROJECT_DIR$/zst/11x5.php" />
+        <option value="$PROJECT_DIR$/zst/3dp3.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/navigator/index.html" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index_navigator.php" />
+        <option value="$PROJECT_DIR$/assets/statics/css/global.css" />
+        <option value="$PROJECT_DIR$/skin/main/selected.js" />
+        <option value="$PROJECT_DIR$/xingcai_back/Random.class.php" />
+        <option value="$PROJECT_DIR$/xingcai_back/WebBase.class.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/main.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_7sb.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_bs.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_lm.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_lw.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_lx.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_ptxw.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_sxtw.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_tm.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_wx.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_xlm.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zmpm.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zmtm.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zmtm1-6.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zongx.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zx.php" />
+        <option value="$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zxbz.php" />
+        <option value="$PROJECT_DIR$/js/nsc/hklhc.js" />
+        <option value="$PROJECT_DIR$/xingcai_back/Game.class.php" />
+        <option value="$PROJECT_DIR$/xingcai_back/Bet.class.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/skin/main/function.js" />
+        <option value="$PROJECT_DIR$/skin/js/function.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="wap.caicai.com" id="2d12df81-0842-4fad-b5ee-76fe5d3f0621" name="wap.caicai.com" />
+    </servers>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wap" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\dadi\C38\wap\images\activity" />
+      <recent name="D:\www\dadi\C38\wap\xingcai_Front\index" />
+      <recent name="D:\www\dadi\C38\wap\xingcai_Front\index\game-played" />
+      <recent name="D:\www\dadi\C38\wap\xingcai_Front" />
+      <recent name="D:\www\dadi\C38\wap\xingcai_back" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\dadi\C38\wap\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="wap.caicai.com" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="wap.caicai.com">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,HIDE_INHERITED_FROM_OBJECT,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd47d506-7d67-4781-967f-92f3040634e8" name="Default" comment="" />
+      <created>1503372272037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503372272037</updated>
+      <workItem from="1503372273457" duration="1369000" />
+      <workItem from="1503383757977" duration="16000" />
+      <workItem from="1503650708735" duration="2485000" />
+      <workItem from="1503666892480" duration="3342000" />
+      <workItem from="1503716656412" duration="1369000" />
+      <workItem from="1503757501067" duration="10387000" />
+      <workItem from="1503887636017" duration="841000" />
+      <workItem from="1503905320475" duration="9775000" />
+      <workItem from="1504010116277" duration="8050000" />
+      <workItem from="1504056325130" duration="8228000" />
+      <workItem from="1504097624850" duration="28000" />
+      <workItem from="1504145313156" duration="1340000" />
+      <workItem from="1504182749285" duration="58000" />
+      <workItem from="1504275088896" duration="1293000" />
+      <workItem from="1504326449702" duration="2026000" />
+      <workItem from="1504338264647" duration="546000" />
+      <workItem from="1504351687026" duration="179000" />
+      <workItem from="1504359544950" duration="1364000" />
+      <workItem from="1504426743940" duration="308000" />
+      <workItem from="1504452566337" duration="783000" />
+      <workItem from="1504489934564" duration="1394000" />
+      <workItem from="1504493630960" duration="6006000" />
+      <workItem from="1504514018898" duration="663000" />
+      <workItem from="1504598904490" duration="257000" />
+      <workItem from="1504704409819" duration="1075000" />
+      <workItem from="1504711839896" duration="469000" />
+      <workItem from="1504967114849" duration="1533000" />
+      <workItem from="1505103768670" duration="4234000" />
+      <workItem from="1537351781502" duration="3280000" />
+      <workItem from="1537359947841" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78830000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
+      <window_info id="Structure" order="1" weight="0.24962293" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295583" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38253638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/xingcai_back/Game.class.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/xingcai_back/Game.class.php</url>
+          <line>211</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/activity_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="261" column="51" lean-forward="true" selection-start-line="261" selection-start-column="51" selection-end-line="261" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/activity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="97" column="31" lean-forward="true" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/klsf.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/kl8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/pk10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/k3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/11x5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="88" column="65" selection-start-line="88" selection-start-column="65" selection-end-line="88" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/3dp3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="90" column="65" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/navigator/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2314">
+          <caret line="89" column="48" selection-start-line="89" selection-start-column="48" selection-end-line="89" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index_navigator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2444">
+          <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/statics/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="204" column="1" selection-start-line="204" selection-start-column="1" selection-end-line="204" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/main/selected.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="26" column="56" lean-forward="true" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_back/Random.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_sqlin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_back/WebBase.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="517" column="25" lean-forward="true" selection-start-line="517" selection-start-column="25" selection-end-line="517" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/lhc/lhc_zxbz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="201" column="32" selection-start-line="201" selection-start-column="29" selection-end-line="201" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/lhc/lhc_2z2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/inc_data_current_new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_tm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="250" column="133" selection-start-line="250" selection-start-column="114" selection-end-line="250" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_sxtw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="136" column="110" lean-forward="true" selection-start-line="136" selection-start-column="92" selection-end-line="136" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_ptxw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="129" column="125" lean-forward="true" selection-start-line="129" selection-start-column="106" selection-end-line="129" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_lx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2132">
+          <caret line="95" column="135" selection-start-line="95" selection-start-column="117" selection-end-line="95" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_lw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1768">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_lm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="287" column="19" lean-forward="true" selection-start-line="287" selection-start-column="19" selection-end-line="287" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_bs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="122" column="124" selection-start-line="122" selection-start-column="124" selection-end-line="122" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_7sb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" column="91" lean-forward="true" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zxbz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="292" column="92" lean-forward="true" selection-start-line="292" selection-start-column="92" selection-end-line="292" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="69" column="244" lean-forward="true" selection-start-line="69" selection-start-column="228" selection-end-line="69" selection-end-column="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zongx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="56" column="89" lean-forward="true" selection-start-line="56" selection-start-column="73" selection-end-line="56" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zmtm1-6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-754">
+          <caret line="118" column="112" selection-start-line="118" selection-start-column="112" selection-end-line="118" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zmtm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="271" column="13" lean-forward="true" selection-start-line="271" selection-start-column="13" selection-end-line="271" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_zmpm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="192" column="120" lean-forward="true" selection-start-line="192" selection-start-column="99" selection-end-line="192" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_xlm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="102" column="127" selection-start-line="102" selection-start-column="109" selection-end-line="102" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/index/game-played/lhc_wx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="36" column="408" selection-start-line="36" selection-start-column="392" selection-end-line="36" selection-end-column="408" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/nsc/hklhc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="108" column="54" selection-start-line="108" selection-start-column="54" selection-end-line="108" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/js/function - 副本20170109.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="331" column="37" lean-forward="true" selection-start-line="331" selection-start-column="37" selection-end-line="331" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js" />
+    <entry file="file://$PROJECT_DIR$/assets/js/application/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_back/Bet.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="1180" column="26" lean-forward="true" selection-start-line="1180" selection-start-column="26" selection-end-line="1180" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_back/Game.class.php2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/liaotian/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_back/Index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_Front/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="157" column="28" lean-forward="true" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zst/zst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6370">
+          <caret line="455" column="33" selection-start-line="455" selection-start-column="33" selection-end-line="455" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1498">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/js/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17948">
+          <caret line="1282" column="44" selection-start-line="1282" selection-start-column="36" selection-end-line="1282" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skin/main/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14546">
+          <caret line="1039" column="9" selection-start-line="1039" selection-start-column="9" selection-end-line="1039" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xingcai_back/Game.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
