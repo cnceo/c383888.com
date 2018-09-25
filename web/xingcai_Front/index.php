@@ -5,7 +5,7 @@
 		<meta name="referrer" content="unsafe-url">
 		<meta name="renderer" content="webkit">
 		
-		<title>欢迎光临~彩168</title>
+		<title>欢迎光临~全民彩票</title>
 		<!--<link type="image/x-icon" rel="shortcut icon" href="http://www.cy16cp.com/fhcp/statics/images/favicon.ico?20170114" media="screen"/>-->
 		<link type="text/css" rel="stylesheet" href="./files/_home.css">
 		<link type="text/css" rel="stylesheet" href="./files/_tip.css">

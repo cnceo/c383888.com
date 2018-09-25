@@ -7,7 +7,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'gslhc',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xclhc',                                                                 	//
 			headers:{                                                                                         	//
@@ -40,7 +40,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'cqssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/cqssc/cqssc_16cp.php',                                                                      //重
 			headers:{                                                                                           //庆
@@ -73,7 +73,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'cqssc1',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //重
 			path: '/xml/cqssc/cqssc_360.php',                                                                       //庆
 			headers:{                                                                                           //时
@@ -106,7 +106,7 @@ exports.cp=[
 		enable:true,                                                                                            //时
 		timer:'cqssc2',                                                                                          //彩
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/cqssc/cqssc_cle.php',                                                                       //
 			headers:{                                                                                           //
@@ -175,7 +175,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'xjssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //新
 			path: '/xml/xjssc/xjssc.php',                                                                       	//疆
 			headers:{                                                                                           //时
@@ -212,7 +212,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'xjssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/xjssc/xjssc_list_0.php',                                                                    //
 			headers:{                                                                                           //
@@ -247,7 +247,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'tjssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //天
+			host:"web.c383888.com",                                                                                   //天
 			timeout:50000,                                                                                      //津
 			path: '/xml/tjssc/tjssc.php',                                                                 		    //时
 			headers:{                                                                                           //时
@@ -343,7 +343,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'gd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/gd11/gd115_baidu.php',                                                                      //广
 			headers:{                                                                                           //东
@@ -376,7 +376,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'gd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //广
 			path: '/xml/gd11/gd115_icaile.php',                                                                     //东
 			headers:{                                                                                           //11
@@ -409,7 +409,7 @@ exports.cp=[
 		enable:true,                                                                                            //选
 		timer:'gd11',                                                                                           //5
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/gd11/gd115_cai88.php',                                                                      //
 			headers:{                                                                                           //
@@ -444,7 +444,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/index.php/Sd115/sd115_129kai?type=7',                                                                        //山
 			headers:{                                                                                           //东
@@ -477,7 +477,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //山
 			path: '/xml/sd11/sd115_cle.php',                                                                   	    //东
 			headers:{                                                                                           //11
@@ -510,7 +510,7 @@ exports.cp=[
 		enable:true,                                                                                            //选
 		timer:'sd11',                                                                                           //5
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/sd11/sd115_cai88.php',                                                                      //
 			headers:{                                                                                           //
@@ -545,7 +545,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jx11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //江
 			path: '/xml/jx11/jx115_360.php',                                                                      	//西
 			headers:{                                                                                           //11
@@ -578,7 +578,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jx11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/jx11/jx115_cai88.php',                                                                      //
 			headers:{                                                                                           //
@@ -613,7 +613,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sh11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //上
 			path: '/xml/sh11/sh115_360.php',                                                                        //海
 			headers:{                                                                                           //11
@@ -646,7 +646,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sh11',                                                                                         	//
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/sh11/sh115_icle.php',                                                                     	//
 			headers:{                                                                                           //
@@ -681,7 +681,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jsk3',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //江
 			path: '/xml/jsk3/jsk3_360.php',                                                                      	//苏
 			headers:{                                                                                           //快
@@ -714,7 +714,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jsk3',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/jsk3/jsk3_163.php',                                                                         //
 			headers:{                                                                                           //
@@ -826,7 +826,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'twpk10',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xcsfpk10',                                                              	//
 			headers:{                                                                                         	//
@@ -858,7 +858,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'sfssc',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xcsfssc',                                                                 	//
 			headers:{                                                                                         	//
@@ -890,7 +890,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'qtllc',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xc5fc',                                                                 	//
 			headers:{                                                                                         	//
@@ -1027,7 +1027,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'ffc',                                                                                          	//
 		option:{                                                                                              	//杏
-			host:"127.0.0.1",                                                                                   	//彩
+			host:"web.c383888.com",                                                                                   	//彩
 			timeout:50000,                                                                                    	//系
 			path: '/index.php/xingcai/xcffc',                                                                 	//统
 			headers:{                                                                                         	//彩
@@ -1124,7 +1124,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'bj28',                                                                                          	//
 		option:{                                                                                              	//杏
-			host:"127.0.0.1",                                                                                   	//彩
+			host:"web.c383888.com",                                                                                   	//彩
 			timeout:50000,                                                                                    	//系
 			path: '/index.php/Kl8/bj28?type=83',                                                                 	//统
 			headers:{                                                                                         	//彩
@@ -1241,15 +1241,14 @@ exports.errorSleepTime=15;
 exports.restartTime=0;
 
 exports.submit={
-
 	host:'localhost',
 	path:'/index.php/dataSource/kj'
 }
 
 exports.dbinfo={
 	host:'127.0.0.1',
-	user:'root',
-	password:'www.cnyma.com',
+	user:'dianjinshuju',
+	password:'dYAd4KeDY6ctczmN',
 	database:'38',
 	'multipleStatements': true
 }
