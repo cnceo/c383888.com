@@ -5,7 +5,7 @@
     <meta name="referrer" content="unsafe-url">
     <meta name="renderer" content="webkit">
 
-    <title>彩38</title>
+    <title>全民彩票</title>
 
     <link type="text/css" rel="stylesheet" href="/files/_home.css">
     <link type="text/css" rel="stylesheet" href="/files/_tip.css">
@@ -93,7 +93,7 @@
 <div class="header-plus" id="header_plus">
     <div class="header-toptray-plus">
         <div class="quick-tpis">
-            <div>您好,欢迎来到彩38!</div>
+            <div>您好,欢迎来到全民彩票!</div>
             <div class="top_dr_zc">
                 <a class="top_qdr" onclick="__openWin('login','/index.php/user/login?is_login=1')">请登录</a>
                 |

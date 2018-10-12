@@ -37,8 +37,8 @@ $conta=preg_replace(array('/<tr><td class="bold">20'.$dat.'/','/<\/td><td class=
 //var_dump($dat);var_dump($conta);die();
 header("Content-type: application/xml");
 echo '<?xml version="1.0" encoding="utf-8"?>';
-echo '<xml>'.$conta.'</xml>';
+//echo '<xml>'.$conta.'</xml>';
+echo '<xml>'.substr($conta,0,strpos($conta, '<!--footer imgage-->')).'</xml>';
 ob_end_flush();
-;echo '
-'
+;echo ''
 ?>

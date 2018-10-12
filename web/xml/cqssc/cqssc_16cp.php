@@ -6,7 +6,7 @@ $content=explode($end,$content[1]);
 return  $content[0];
 }
 function getcode($str){
-$str=trim(eregi_replace("[^0-9]","",$str));
+$str=trim(preg_replace("[^0-9]","",$str));
 return $str;
 }
 $url='http://www.16cp.com/Game/GetNum.aspx?iType=3';
@@ -36,7 +36,7 @@ $m=date('i',time());
 $n=substr($m,-1);
 $time=substr(date('Y-m-d H:i',time()),0,15);
 if($n < 5){$e=0;}else{$e=5;}
-$opentime=$time.$e.':01';
+$opentime=$time.':01';
 
 header("Content-type: application/xml");
 echo'<?xml version="1.0" encoding="utf-8"?>';

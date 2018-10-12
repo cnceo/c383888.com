@@ -7,7 +7,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'gslhc',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xclhc',                                                                 	//
 			headers:{                                                                                         	//
@@ -32,39 +32,6 @@ exports.cp=[
 			}                                                                                                 	//系
 		}                                                                                                     	//统
 	},					//
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	{                                                                                                           //
-		title:'16彩票重庆时时彩',                                                                               //
-		source:'16彩票',                                                                                 		//
-		name:'cqssc',                                                                                           //
-		enable:true,                                                                                            //
-		timer:'cqssc',                                                                                          //
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //
-			path: '/xml/cqssc/cqssc_16cp.php',                                                                      //重
-			headers:{                                                                                           //庆
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //时
-			}                                                                                                   //时
-		},                                                                                                      //彩
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);                                                                       //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                  //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:1,                                                                                 //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //
-						data:m[2]                                                                               //
-					};                                                                                          //
-				}                                                                            //
-			}catch(err){                                                                                        //
-				throw('--------16彩票重庆时时彩解析数据不正确');                                                //
-			}                                                                                                   //
-		}                                                                                                       //
-	},	                                                                                                        //
                                                                                                                 //
 	{                                                                                                           //
 		title:'360彩票重庆时时彩',                                                                              //
@@ -73,7 +40,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'cqssc1',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //重
 			path: '/xml/cqssc/cqssc_360.php',                                                                       //庆
 			headers:{                                                                                           //时
@@ -98,75 +65,8 @@ exports.cp=[
 			}                                                                                                   //
 		}                                                                                                       //
 	},	                                                                                                        //
-	                                                                                                            //
-	{                                                                                                           //
-		title:'百度重庆时时彩',                                                                                 //重
-		source:'百度乐彩',                                                                                 		//庆
-		name:'cqssc',                                                                                           //时
-		enable:true,                                                                                            //时
-		timer:'cqssc2',                                                                                          //彩
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //
-			path: '/xml/cqssc/cqssc_cle.php',                                                                       //
-			headers:{                                                                                           //
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //
-			}                                                                                                   //
-		},                                                                                                      //
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);                                                                        //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:1,                                                                                 //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //
-						data:m[2]                                                                               //
-					};                                                                                          //
-				}					                                                                            //
-			}catch(err){                                                                                        //重
-				throw('--------百度重庆时时彩解析数据不正确');                                                  //庆
-			}                                                                                                   //时
-		}                                                                                                       //时
-    },                                                                                                          //彩
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-	
-
-	
-	{
-		title:'重庆时时彩',
-		source:'360',
-		name:'cqssc',
-		enable:true,
-		timer:'cqssc', 
-
-		option:{
-			host:"cp.360.cn",
-			timeout:50000,
-			path: '/ssccq/',
-			headers:{
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)"
-			}
-		},
-		parse:function(str){
-			try{
-				return getFrom360CP(str,1);
-			}catch(err){
-				//throw('重庆时时彩解析数据不正确');
-			}
-		}
-	},
-	//}}}	
-	
-	
-	
-	
-	
-
 	
 	{                                                                                                           //
 		title:'新疆时时彩',                                                                           	    	//
@@ -175,7 +75,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'xjssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //新
 			path: '/xml/xjssc/xjssc.php',                                                                       	//疆
 			headers:{                                                                                           //时
@@ -200,19 +100,14 @@ exports.cp=[
 			}                                                                                                   //
 		}                                                                                                       //新
 	},	                                                                                                        //疆
- 
-                                                                                                              //时
-	
-	
-	
-	{                                                                                                           //时
+/*	{                                                                                                           //时
 		title:'新疆时时彩',                                                                              		//彩
 		source:'新疆福彩网2',                                                                                	//
 		name:'xjssc',                                                                                           //
 		enable:true,                                                                                            //
 		timer:'xjssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/xjssc/xjssc_list_0.php',                                                                    //
 			headers:{                                                                                           //
@@ -236,7 +131,8 @@ exports.cp=[
 				throw('--------新疆福利彩票解析数据不正确');                                                  	//时
 			}                                                                                                   //彩
 		}                                                                                                       //
-	},                                                                                         					//
+	},     
+	*/                                                                                    					//
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -247,7 +143,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'tjssc',                                                                                          //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //天
+			host:"web.c383888.com",                                                                                   //天
 			timeout:50000,                                                                                      //津
 			path: '/xml/tjssc/tjssc.php',                                                                 		    //时
 			headers:{                                                                                           //时
@@ -308,9 +204,9 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'bjpk10',                                                                                         //
 		option:{                                                                                                //
-			host:"api.fsh-weiyu.com",                                                                                   //
+			host:"520.ag",                                                                                   //
 			timeout:50000,                                                                                      //
-			path: '/xml/pk10/5678.php',                                                                     //
+			path: '/xml/bjpk10',                                                                     //
 			headers:{                                                                                           //
 				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //
 			}                                                                                                   //
@@ -343,9 +239,9 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'gd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"520.ag",                                                                                   //
 			timeout:50000,                                                                                      //
-			path: '/xml/gd11/gd115_baidu.php',                                                                      //广
+			path: '/xml/gd11x5',                                                                      //广
 			headers:{                                                                                           //东
 				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //11
 			}                                                                                                   //选
@@ -368,73 +264,6 @@ exports.cp=[
 			}                                                                                                   //
 		}                                                                                                       //
 	},	                                                                                                        //
-                                                                                                                //
-	{                                                                                                           //
-		title:'爱彩乐广东11选5',                                                                                //
-		source:'广东11x5爱彩乐',                                                                                //
-		name:'gd11',                                                                                            //
-		enable:true,                                                                                            //
-		timer:'gd11',                                                                                           //
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //广
-			path: '/xml/gd11/gd115_icaile.php',                                                                     //东
-			headers:{                                                                                           //11
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //选
-			}                                                                                                   //5
-		},                                                                                                      //
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);	                                                                        //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:6,                                                                                 //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //
-						data:m[2]                                                                               //
-					};                                                                                          //
-				}					                                                                            //
-			}catch(err){                                                                                        //
-				throw('--------广东11x5解析数据不正确');                                                        //
-			}                                                                                                   //
-		}                                                                                                       //
-	},	                                                                                                        //
-	                                                                                                            //
-	{                                                                                                           //
-		title:'彩88广东11选5',                                                                                  //广
-		source:'广东11选5彩88',                                                                                 //东
-		name:'gd11',                                                                                            //11
-		enable:true,                                                                                            //选
-		timer:'gd11',                                                                                           //5
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //
-			path: '/xml/gd11/gd115_cai88.php',                                                                      //
-			headers:{                                                                                           //
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //
-			}                                                                                                   //
-		},                                                                                                      //
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);	                                                                        //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:6,                                                                                 //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //
-						data:m[2]                                                                               //
-					};                                                                                          //
-				}					                                                                            //
-			}catch(err){                                                                                        //广
-				throw('--------彩88广东11选5解析数据不正确');                                                   //东
-			}                                                                                                   //11
-		}                                                                                                       //选
-    },                                                                                                          //5
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	{                                                                                                           //
@@ -444,9 +273,9 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"520.ag",                                                                                   //
 			timeout:50000,                                                                                      //
-			path: '/index.php/Sd115/sd115_129kai?type=7',                                                                        //山
+			path: '/xml/sd11x5',                                                                        //山
 			headers:{                                                                                           //东
 				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //11
 			}                                                                                                   //选
@@ -477,7 +306,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sd11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //山
 			path: '/xml/sd11/sd115_cle.php',                                                                   	    //东
 			headers:{                                                                                           //11
@@ -503,40 +332,6 @@ exports.cp=[
 		}                                                                                                       //
 	},	                                                                                                        //
 	                                                                                                            //
-	{                                                                                                           //
-		title:'彩88山东11选5',                                                                                  //山
-		source:'广东11选5彩88',                                                                                 //东
-		name:'sd11',                                                                                            //11
-		enable:true,                                                                                            //选
-		timer:'sd11',                                                                                           //5
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //
-			path: '/xml/sd11/sd115_cai88.php',                                                                      //
-			headers:{                                                                                           //
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //
-			}                                                                                                   //
-		},                                                                                                      //
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);	                                                                        //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:7,                                                                                 //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //
-						data:m[2]                                                                               //
-					};                                                                                          //
-				}					                                                                            //
-			}catch(err){                                                                                        //山
-				throw('--------彩88山东11选5解析数据不正确');                                                   //东
-			}                                                                                                   //11
-		}                                                                                                       //选
-    },                                                                                                          //5
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	{                                                                                                           //
 		title:'360彩票江西11选5',                                                                           	//
@@ -545,7 +340,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jx11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"520.ag",                                                                                   //
 			timeout:50000,                                                                                      //江
 			path: '/xml/jx11/jx115_360.php',                                                                      	//西
 			headers:{                                                                                           //11
@@ -557,7 +352,8 @@ exports.cp=[
 				str=str.substr(0,200);	                                                                        //
 				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
 				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
+				if(m=str.match(reg)){
+					m[1] = m[1].slice(0,-3)+'-'+m[1].substr(-3);                                                //
 					return {                                                                                    //
 						type:16,                                                                                //
 						time:m[3],                                                                              //
@@ -571,40 +367,6 @@ exports.cp=[
 		}                                                                                                       //江
 	},	                                                                                                        //西
                                                                                                                 //11
-	{                                                                                                           //选
-		title:'彩88江西11选5',                                                                              	//5
-		source:'彩88',                                                                                			//
-		name:'jx11',                                                                                            //
-		enable:true,                                                                                            //
-		timer:'jx11',                                                                                           //
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //
-			path: '/xml/jx11/jx115_cai88.php',                                                                      //
-			headers:{                                                                                           //
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //
-			}                                                                                                   //
-		},                                                                                                      //
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);	                                                                        //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:16,                                                                                //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //
-						data:m[2]                                                                               //
-					};                                                                                          //江
-				}					                                                                            //西
-			}catch(err){                                                                                        //11
-				throw('--------彩88江西11选5解析数据不正确');                                                  	//选
-			}                                                                                                   //5
-		}                                                                                                       //
-	},                                                                                         					//
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	{                                                                                                           //
 		title:'上海11选5',                                                                           	    	//
@@ -613,9 +375,9 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'sh11',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"520.ag",                                                                                      //
 			timeout:50000,                                                                                      //上
-			path: '/xml/sh11/sh115_360.php',                                                                        //海
+			path: '/xml/sh11x5',                                                                                //海
 			headers:{                                                                                           //11
 				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //选
 			}                                                                                                   //5
@@ -638,40 +400,6 @@ exports.cp=[
 			}                                                                                                   //上
 		}                                                                                                       //海
 	},	                                                                                                        //11
-                                                                                                                //选
-	{                                                                                                           //5
-		title:'上海11选5',                                                                              		//
-		source:'爱彩乐',                                                                                		//
-		name:'sh11',                                                                                          	//
-		enable:true,                                                                                            //
-		timer:'sh11',                                                                                         	//
-		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
-			timeout:50000,                                                                                      //
-			path: '/xml/sh11/sh115_icle.php',                                                                     	//
-			headers:{                                                                                           //
-				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0) "                             //
-			}                                                                                                   //
-		},                                                                                                      //
-		parse:function(str){                                                                                    //
-			try{                                                                                                //
-				str=str.substr(0,200);	                                                                        //
-				var reg=/<row expect="([\d\-]+?)" opencode="([\d\,]+?)" opentime="([\d\:\- ]+?)"/;              //
-				var m;                                                                                          //
-				if(m=str.match(reg)){                                                                           //
-					return {                                                                                    //
-						type:15,                                                                                //
-						time:m[3],                                                                              //
-						number:m[1],                                                                            //上
-						data:m[2]                                                                               //海
-					};                                                                                          //11
-				}					                                                                            //选
-			}catch(err){                                                                                        //5
-				throw('--------爱彩乐上海11选5解析数据不正确');                                                  //
-			}                                                                                                   //
-		}                                                                                                       //
-	},                                                                                         					//
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 	{                                                                                                           //
@@ -681,7 +409,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jsk3',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //江
 			path: '/xml/jsk3/jsk3_360.php',                                                                      	//苏
 			headers:{                                                                                           //快
@@ -714,7 +442,7 @@ exports.cp=[
 		enable:true,                                                                                            //
 		timer:'jsk3',                                                                                           //
 		option:{                                                                                                //
-			host:"127.0.0.1",                                                                                   //
+			host:"web.c383888.com",                                                                                   //
 			timeout:50000,                                                                                      //
 			path: '/xml/jsk3/jsk3_163.php',                                                                         //
 			headers:{                                                                                           //
@@ -751,9 +479,9 @@ exports.cp=[
 		timer:'fc3d',                                                                                                             //
                                                                                                                                   //
 		option:{                                                                                                                  //
-			host:"www.500wan.com",                                                                                                //福
+			host:"520.ag",                                                                                                        //福
 			timeout:50000,                                                                                                        //彩
-			path: '/static/info/kaijiang/xml/sd/list10.xml',                                                                      //3D
+			path: '/xml/fc3d',                                                                                                    //3D
 			headers:{                                                                                                             //
 				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)"                                                //
 			}                                                                                                                     //
@@ -787,9 +515,9 @@ exports.cp=[
 		timer:'pl3',                                                                                                             //
                                                                                                                                   //
 		option:{                                                                                                                  //
-			host:"www.500wan.com",                                                                                                //
+			host:"520.ag",                                                                                                //
 			timeout:50000,                                                                                                        //
-			path: '/static/info/kaijiang/xml/pls/list10.xml',                                                                     //
+			path: '/xml/pl3',                                                                     //
 			headers:{                                                                                                             //
 				"User-Agent": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)"                                                //
 			}                                                                                                                     //
@@ -826,7 +554,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'twpk10',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xcsfpk10',                                                              	//
 			headers:{                                                                                         	//
@@ -858,7 +586,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'sfssc',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xcsfssc',                                                                 	//
 			headers:{                                                                                         	//
@@ -890,7 +618,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'qtllc',                                                                                        	//
 		option:{                                                                                              	//
-			host:"127.0.0.1",                                                                                   	//
+			host:"web.c383888.com",                                                                                   	//
 			timeout:50000,                                                                                    	//
 			path: '/index.php/xingcai/xc5fc',                                                                 	//
 			headers:{                                                                                         	//
@@ -992,7 +720,7 @@ exports.cp=[
  
 
 		option:{
-			host:"pc.ds568.com",
+			host:"www.cailele.com",
 			timeout:50000,
 			path: '/static/gxk3/newlyopenlist.xml',
 			headers:{
@@ -1027,7 +755,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'ffc',                                                                                          	//
 		option:{                                                                                              	//杏
-			host:"127.0.0.1",                                                                                   	//彩
+			host:"web.c383888.com",                                                                                   	//彩
 			timeout:50000,                                                                                    	//系
 			path: '/index.php/xingcai/xcffc',                                                                 	//统
 			headers:{                                                                                         	//彩
@@ -1124,7 +852,7 @@ exports.cp=[
 		enable:true,                                                                                          	//
 		timer:'bj28',                                                                                          	//
 		option:{                                                                                              	//杏
-			host:"127.0.0.1",                                                                                   	//彩
+			host:"web.c383888.com",                                                                                   	//彩
 			timeout:50000,                                                                                    	//系
 			path: '/index.php/Kl8/bj28?type=83',                                                                 	//统
 			headers:{                                                                                         	//彩
@@ -1206,11 +934,11 @@ exports.cp=[
 		timer: 'hklhc',                                                                                                                       //
 		stype: 34,                                                                                                                            //
 		option: {                                                                                                                             //
-			host: "www.9800.com.tw",                                                                                                          //
+			host: "520.ag",                                                                                                          //
 			timeout: 50000,                                                                                                                   //香
-			path: '/html/a6/',                                                                                                                //港
-			hhost: "www.9800.com.tw",                                                                                                         //六
-			npath: '/html/a6/',                                                                                                               //合
+			path: '/xml/xglhc',                                                                                                                //港
+			hhost: "520.ag",                                                                                                         //六
+			npath: '/xml/xglhc',                                                                                                               //合
 			headers: {                                                                                                                        //彩
 				"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/22.0.1271.64 Safari/537.11"      //
 			}                                                                                                                                 //
@@ -1249,7 +977,7 @@ exports.submit={
 exports.dbinfo={
 	host:'127.0.0.1',
 	user:'root',
-	password:'www.cnyma.com',
+	password:'123456',
 	database:'38',
 	'multipleStatements': true
 }

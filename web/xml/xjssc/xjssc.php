@@ -29,7 +29,7 @@ $opencode=cut($start,$end,$content1);
 
 $opentime=date('Y-m-d H:i:s');
 $time=substr(date('Y-m-d H:i',time()),0,15);
-$opentime=$time.$e.'0:01';
+$opentime=$time.'0:01';
 header("Content-type: application/xml");
 echo'<?xml version="1.0" encoding="utf-8"?>';
 echo '<xml><row expect="'."$expect".'" opencode="'."$opencode".'" opentime="'."$opentime".'" /></xml>';

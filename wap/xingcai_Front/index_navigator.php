@@ -92,6 +92,6 @@
     </a>
 </div>
 <h5>下载最新版本APP</h5>
-<p class="tip wap-foot">版权所有：2009-2017©彩38</p>
+<p class="tip wap-foot">版权所有：2009-2017©全民彩票</p>
 </body>
 </html>

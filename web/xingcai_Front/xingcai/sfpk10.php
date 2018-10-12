@@ -8,10 +8,11 @@ header('Content-type: application/xml');
 echo'<?xml version="1.0" encoding="utf-8"?>';
 echo '<xml><row expect="'.$lastNo['actionNo'].'" opencode="'.$opencode.'" opentime="'.$lastNo['actionTime'].'"/></xml>';
 
-/* Éú³ÉËæ»úÊý */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 function randKeys($len){
     $array=array("01","02","03","04","05","06","07","08","09","10");
-	$charsLen = count($array) - 1; 
+	$charsLen = count($array) - 1;
+    shuffle($array);
     shuffle($array);
     $output = ""; 
   //  for ($i=0; $i<$len; $i++){ 
