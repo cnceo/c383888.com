@@ -8,7 +8,7 @@
     <meta name=format-detection content="telphone=no" />
     <meta name=apple-mobile-web-app-capable content=yes />
     
-    <title>欢迎光临~彩168</title>
+    <title>欢迎光临~全民彩票</title>
     
     <link rel="stylesheet" href="assets/statics/css/global.css" type="text/css">
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="uploadimg/wapicon/icon-57.png">
