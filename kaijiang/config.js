@@ -977,7 +977,7 @@ exports.submit={
 exports.dbinfo={
 	host:'127.0.0.1',
 	user:'dianjinshuju',
-	password:'123456',
+	password:'dYAd4KeDY6ctczmN',
 	database:'38',
 	'multipleStatements': true
 }
